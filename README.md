@@ -1,6 +1,6 @@
 - 👋 Hi, I’m R NAVEEN PATIL
 - 👀 I’m interested in APP development cloud engineering and cyber security 
-- 🌱 I’m currently learning android app development through android studio
+- 🌱 I’m currently learning flutter 
   
 - 💞️ I’m looking to collaborate on Android app development 
 - 📫 How to reach me rnaveenpatil@gmail.com
