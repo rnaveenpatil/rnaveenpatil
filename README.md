@@ -1,7 +1,8 @@
 - 👋 Hi, I’m R NAVEEN PATIL
 - 👀 I’m interested in APP development and deep learning
 - 🌱 I’m currently learning deep learning
-  
+
+
 - 💞️ I’m looking to collaborate on Android app development 
 - 📫 How to reach me rnaveenpatil@gmail.com
 - 😄 Pronouns: sorry I don't have any 😁
