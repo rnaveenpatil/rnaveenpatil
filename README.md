@@ -40,7 +40,7 @@ Any fun open-source ideas that make learning exciting 🚀
 
 😄 Pronouns
 
-None — just call me Naveen 😁
+None — just call me Naveen or patil 😁
 
 ⚡ Fun Fact
 
