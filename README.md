@@ -44,6 +44,7 @@ None — just call me Naveen or patil 😁
 
 ⚡ Fun Fact
 
+
 I’m genuinely worried AI will take my job...
 ...so I decided to learn AI before it learns me 😅🤖
 
