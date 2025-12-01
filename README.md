@@ -2,7 +2,9 @@
 💡 About Me
 
 I’m a curious human who loves turning ideas into apps and code into intelligence 🧠📱
-Currently on an epic journey through the world of Deep Learning and App Development — fueled by caffeine, curiosity, and the occasional bug 🐛☕
+Currently on an epic journey through the world of Deep Learning and App Development — fueled by caffeine,
+
+curiosity, and the occasional bug 🐛☕
 
 👀 What I’m Into
 
