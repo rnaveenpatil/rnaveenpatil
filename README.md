@@ -28,6 +28,8 @@ curiosity, and the occasional bug 🐛☕
 
 I’m always open to team up on:
 
+
+
 Android or Flutter app projects
 
 AI + Mobile integration projects
